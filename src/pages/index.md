@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: WSB Cut-ups
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Cutting up the canon
+subheading: WSB and collage
 mainpitch:
-  title: Why Kaldi
+  title: Cut-ups
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    This archive of cut-ups . . . 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  WSB is
 intro:
   blurbs:
     - image: /img/coffee.png
